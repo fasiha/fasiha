@@ -11,4 +11,4 @@
 - 🧑‍🎨 profile photo credit: [ain't looking for nothing](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
 - 🇮🇳 always try the paan
 - 🇨🇳 always try the mapo tofu
-- 👄 very gentle pronunciation suggestion: "AAH-med FAH-see"
+- 👄 very gentle pronunciation suggestion: "AAH-med FAH-see" (احمد  فصيح for the Arabic/Persian readers)
