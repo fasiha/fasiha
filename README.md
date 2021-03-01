@@ -10,7 +10,7 @@
     -  [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     -  [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
 - 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, advise, collaborate
-- 🧑‍🎨 profile photo: [ain't looking for nothing](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
+- 🧑‍🎨 [profile photo](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
 - 🇮🇳 always try the paan
 - 🇨🇳 always try the mapo tofu
 - 👄 very gentle pronunciation suggestion: "AAH-med FAH-see" (احمد  فصيح for the Arabic/Persian readers)
