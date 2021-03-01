@@ -4,6 +4,7 @@
   - [Kanda](https://github.com/fasiha/kanda) for intensive Japanese reading and review leveraging powerful Japanese NLP
   - [Curtiz Japanese NLP](https://github.com/fasiha/curtiz-japanese-nlp) wraps [MeCab](https://github.com/taku910/mecab), [UniDic](https://unidic.ninjal.ac.jp), [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/#dl), [JMDict](http://jmdict.org/), [JMDict-Furigana](https://github.com/Doublevil/JmdictFurigana)—all in Node
   - [Texture-shaded Globe](https://fasiha.github.io/post/texshade/) webapp and [implementation](https://fasiha.github.io/texshade-py/) of the lovely [terrain-shading algorithm](http://www.textureshading.com)
+  - [Call Faye](https://callfaye.glitch.me) tracks cards while you track betting—perfect for playing Texas hold 'em poker with your kids! [Blog](https://fasiha.github.io/post/risk-for-kids-and-grownups/) & [repo](https://github.com/fasiha/hold-em-tools#readme) have videos.
 - 🤳 long-time favorites
     -  [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     -  [Mudder.js](https://github.com/fasiha/mudderjs#readme): subdivide lexicographic space between strings (also `base62`)
