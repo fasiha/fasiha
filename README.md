@@ -4,12 +4,12 @@
   - [Kanda](https://github.com/fasiha/kanda) for intensive Japanese reading and review leveraging powerful Japanese NLP
   - [Curtiz](https://github.com/fasiha/curtiz-japanese-nlp) combines super-powered Japanese NLP tools in Node: [MeCab](https://github.com/taku910/mecab), [UniDic](https://unidic.ninjal.ac.jp), [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/#dl), [JMDict](http://jmdict.org/), [JMDict-Furigana](https://github.com/Doublevil/JmdictFurigana)
   - [Texture-shaded Globe](https://fasiha.github.io/post/texshade/) webapp and [implementation](https://fasiha.github.io/texshade-py/) of the lovely [terrain-shading algorithm](http://www.textureshading.com)
-  - [Call Faye](https://github.com/fasiha/hold-em-tools) is the perfect way to play probabilistic Texas hold 'em poker with the kids—[play now](https://callfaye.glitch.me)!
+  - [Call Faye](https://github.com/fasiha/hold-em-tools) is the perfect way to play probabilistic Texas hold 'em poker with the kids. See the [blog post](https://fasiha.github.io/post/risk-for-kids-and-grownups/).
   - [MemriseDriver](https://github.com/fasiha/memrise-driver): add text-to-speech to your Memrise flashcards, via AWS Polly and Puppeteer
 - 🤳 long-time favorites
     -  [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     -  [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
-- 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, advise, collaborate
+- 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, collaborate
 - 🧑‍🎨 [profile photo](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
 - 🇮🇳 always try the paan
 - 🇨🇳 always try the mapo tofu
