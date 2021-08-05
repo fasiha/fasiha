@@ -1,11 +1,12 @@
 - 👍 he/him (they/them 👌)
 - 🔭 do check out these newer projects
+  - [CJK Text Processing and Languages"](https://fasiha.github.io/cjk-2021/), my talk for an informal lunch-and-learn where I fanboy Chinese, Japanese, and Korean
   - [Gotanda](https://github.com/fasiha/gotanda-pouchdb-server), a centralized backup sync target for all your PouchDB-powered local-first apps
   - [Kanda](https://github.com/fasiha/kanda) for intensive Japanese reading and review leveraging powerful Japanese NLP
   - [Curtiz](https://github.com/fasiha/curtiz-japanese-nlp) combines super-powered Japanese NLP tools in Node: [MeCab](https://github.com/taku910/mecab), [UniDic](https://unidic.ninjal.ac.jp), [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/#dl), [JMDict](http://jmdict.org/), [JMDict-Furigana](https://github.com/Doublevil/JmdictFurigana)
   - [Texture-shaded Globe](https://fasiha.github.io/post/texshade/) webapp and [implementation](https://fasiha.github.io/texshade-py/) of the lovely [terrain-shading algorithm](http://www.textureshading.com)
   - [Call Faye](https://github.com/fasiha/hold-em-tools) is the perfect way to play probabilistic Texas hold 'em poker with the kids. See the [blog post](https://fasiha.github.io/post/risk-for-kids-and-grownups/).
-  - [MemriseDriver](https://github.com/fasiha/memrise-driver): add text-to-speech to your Memrise flashcards, via AWS Polly and Puppeteer
+  - [MemriseDriver](https://github.com/fasiha/memrise-driver): add text-to-speech to your Memrise flashcards, via AWS Polly (Japanese support!) and Puppeteer
 - 🤳 long-time favorites
     -  [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     -  [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
