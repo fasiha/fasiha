@@ -1,7 +1,7 @@
 - 👍 he/him (they/them 👌)
 - 🔭 do check out these newer projects
   - [Yamanote](https://github.com/fasiha/yamanote), a bookmark annotation and archival system with browser-based snapshots, meaning it works great with paywalls, JavaScript-heavy sites, etc.!
-  - [*Midsummer's Night Dream* script](https://www.paulmeier.com/dream-radio-broadcast/) of the 2010 Original Pronunciation (OP) radio play by Kansas Public Radio and University Theatre at the University of Kansas. For audio and script PDF, see [Paul Meier](https://www.paulmeier.com/dream-radio-broadcast/)
+  - [*Midsummer's Night Dream* script](https://www.paulmeier.com/dream-radio-broadcast/) of the 2010 Original Pronunciation (OP) abridged radio play by Kansas Public Radio and University Theatre at the University of Kansas. For audio and script PDF, see [Paul Meier](https://www.paulmeier.com/dream-radio-broadcast/)
   - [CJK Text Processing and Languages](https://fasiha.github.io/cjk-2021/), my talk for an informal lunch-and-learn where I fanboy Chinese, Japanese, and Korean
   - [Gotanda](https://github.com/fasiha/gotanda-pouchdb-server), a centralized backup sync target for all your PouchDB-powered local-first apps
   - [Kanda](https://github.com/fasiha/kanda) for intensive Japanese reading and review leveraging powerful Japanese NLP
