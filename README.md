@@ -6,13 +6,17 @@
   - [Gotanda](https://github.com/fasiha/gotanda-pouchdb-server), a centralized backup sync target for all your PouchDB-powered local-first apps
   - [Kanda](https://github.com/fasiha/kanda) for intensive Japanese reading and review leveraging powerful Japanese NLP
   - [Curtiz](https://github.com/fasiha/curtiz-japanese-nlp) combines super-powered Japanese NLP tools in Node: [MeCab](https://github.com/taku910/mecab), [UniDic](https://unidic.ninjal.ac.jp), [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/#dl), [JMDict](http://jmdict.org/), [JMDict-Furigana](https://github.com/Doublevil/JmdictFurigana)
-  - [Texture-shaded Globe](https://fasiha.github.io/post/texshade/) webapp and [implementation](https://fasiha.github.io/texshade-py/) of the lovely [terrain-shading algorithm](http://www.textureshading.com)
+  - [Texture-shaded Globe](https://fasiha.github.io/post/texshade/) webapp and [implementation](https://github.com/fasiha/texshade-py/) of the lovely terrain-shading algorithm
   - [Call Faye](https://github.com/fasiha/hold-em-tools) is the perfect way to play probabilistic Texas hold 'em poker with the kids. See the [blog post](https://fasiha.github.io/post/risk-for-kids-and-grownups/).
   - [MemriseDriver](https://github.com/fasiha/memrise-driver): add text-to-speech to your Memrise flashcards, via AWS Polly (Japanese support!) and Puppeteer
 - 🤳 long-time favorites
     -  [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     -  [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
     -  [KanjiBreak](https://kanjibreak.glitch.me): crowdsourced breakdowns for Chinese characters
+-  Not big enough to be projects—more like amuses-bouches:
+    - [Frequency table of leading sounds in syllables](https://github.com/fasiha/sinic-fronts#readme) in Taigi (Taiwanese Hokkien) vs Cantonese vs Mandarin
+    - [Hear and see](https://fasiha.github.io/glossika-example-sentence-1/) the same sentence in all sixty-five languages currently supported by [Glossika](https://ai.glossika.com/)
+    - [US Covid deaths by county 2020 election results](https://github.com/fasiha/covid-county#readme)—morbid charts
 - 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, collaborate
 - 🧑‍🎨 [profile photo](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
 - 🇮🇳 always try the paan
