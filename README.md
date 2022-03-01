@@ -14,7 +14,7 @@
     - [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
     - [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
     - [KanjiBreak](https://kanjibreak.glitch.me): crowdsourced breakdowns for Chinese characters
--  Not big enough to be projects—more like amuses-bouches:
+- 🔍 Not big enough to be projects—more like amuses-bouches:
     - [Giant satellite-projected maps](https://observablehq.com/@fasiha/satellite-explorer-with-presets) for your walls, a set of four or seven: print them two meters wide!
     - [Frequency table of leading sounds in syllables](https://github.com/fasiha/sinic-fronts#readme) in Taigi (Taiwanese Hokkien) vs Cantonese vs Mandarin
     - [Hear and see](https://fasiha.github.io/glossika-example-sentence-1/) the same sentence in all sixty-five languages currently supported by [Glossika](https://ai.glossika.com/)
