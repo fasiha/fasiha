@@ -1,5 +1,6 @@
 - 👍 he/him (they/them 👌)
 - 🔭 do check out these newer projects
+  - [Hareonna](https://fasiha.github.io/hareonna/) visualizes temperature percentiles from 13'500 stations in the Global Historical Climatology Network daily (GHCNd) database. Find where your perfect weather is!
   - [Devastate](https://fasiha.github.io/devastate/) is a web app version of the game to calibrate uncertainty from Julia Galef's *The Scout Mindset*
   - [HTML Ruby Tag](https://marketplace.visualstudio.com/items?itemName=fasiha.ruby-html-tag) is a VS Code extension for <ruby>ルビ<rt>ruby</rt></ruby>-tag-lovers.
   - [Yamanote](https://github.com/fasiha/yamanote), a bookmark annotation and archival system with browser-based snapshots, meaning it works great with paywalls, JavaScript-heavy sites, etc.!
