@@ -14,7 +14,7 @@
   - [Call Faye](https://github.com/fasiha/hold-em-tools) is the perfect way to play probabilistic Texas hold 'em poker with the kids. See the [blog post](https://fasiha.github.io/post/risk-for-kids-and-grownups/).
   - [MemriseDriver](https://github.com/fasiha/memrise-driver): add text-to-speech to your Memrise flashcards, via AWS Polly (Japanese support!) and Puppeteer
 - 🤳 long-time favorites
-    - [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards
+    - [Ebisu](https://fasiha.github.io/ebisu/) for scheduling flashcards with Bayesian statistics
     - [Mudder.js](https://github.com/fasiha/mudderjs): subdivide lexicographic space between strings (also `base62`)
     - [KanjiBreak](https://kanjibreak.glitch.me): crowdsourced breakdowns for Chinese characters
     - [KanjiVG Explorer](https://fasiha.github.io/kanjivg-explorer/): explore Chinese character dependency graphs
