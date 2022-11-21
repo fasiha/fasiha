@@ -1,5 +1,6 @@
 - 👍 he/him (they/them 👌)
 - 🔭 do check out these newer projects
+  - [Yoyogi](https://fasiha.github.io/yoyogi) is an anti-timeline frontend for Mastodon that centers a single author and their threads. I'd been asking others to make this for years and finally did it 😝
   - [Kamiya Codec](https://github.com/fasiha/kamiya-codec) conjugates and deconjugates Japanese verbs and adjectives following Taeko Kamiya's texts
   - [Hareonna](https://fasiha.github.io/hareonna/) visualizes temperature percentiles from 13'500 stations in the Global Historical Climatology Network daily (GHCNd) database. Find where your perfect weather is!
   - [Devastate](https://fasiha.github.io/devastate/) is a web app version of the game to calibrate uncertainty from Julia Galef's *The Scout Mindset*
