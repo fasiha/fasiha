@@ -26,7 +26,7 @@
     - [Word search puzzle](https://fasiha.github.io/word-search-puzzle/) for you homeschoolers—Japanese or English, excellent printer support!
     - [US Covid deaths by county 2020 election results](https://github.com/fasiha/covid-county#readme)—morbid charts
 - 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, collaborate
-- 🧑‍🎨 [profile photo](https://www.flickr.com/photos/ain-t_looking_for_nothing/8757900003/)
+- 🧑‍🎨 profile photo: Sun Wukong the Monkey King by the fabulous [@monarobot](https://mastodon.art/@monarobot/) in her Maya style
 - 🇮🇳 always try the paan
 - 🇨🇳 always try the mapo tofu
 - 👄 very gentle pronunciation suggestion: "AAH-med FAH-see" (احمد  فصيح for the Arabic/Persian readers)
