@@ -31,3 +31,6 @@
 - 🇮🇳 always try the paan
 - 🇨🇳 always try the mapo tofu
 - 👄 very gentle pronunciation suggestion: "AAH-med FAH-see" (احمد  فصيح for the Arabic/Persian readers)
+
+![Classic Maya-style drawing of Sun Wukong the Monkey King by Monarobot, with the monkey hanging onto its staff, balanced on a jet cloud, with its golden band around its head and looking fearsomely cool](https://github.com/user-attachments/assets/ed02876e-2557-4dcd-a5f2-407f5323c3ab)
+
