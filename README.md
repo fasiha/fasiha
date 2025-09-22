@@ -25,7 +25,6 @@
     - [Frequency table of leading sounds in syllables](https://github.com/fasiha/sinic-fronts#readme) in Taigi (Taiwanese Hokkien) vs Cantonese vs Mandarin
     - [Hear and see](https://fasiha.github.io/glossika-example-sentence-1/) the same sentence in all sixty-five languages currently supported by [Glossika](https://ai.glossika.com/)
     - [Word search puzzle](https://fasiha.github.io/word-search-puzzle/) for you homeschoolers—Japanese or English, excellent printer support!
-    - [US Covid deaths by county 2020 election results](https://github.com/fasiha/covid-county#readme)—morbid charts
 - 🤙 [contact](https://fasiha.github.io/#contact)—happy to chat, mentor, collaborate
 - 🧑‍🎨 profile photo: Sun Wukong the Monkey King by the fabulous [@monarobot](https://mastodon.art/@monarobot/) in her Maya style
 - 🇮🇳 always try the paan
