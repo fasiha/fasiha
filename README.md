@@ -1,5 +1,6 @@
 - 👍 he/him (they/them 👌)
 - 🔭 do check out these newer projects
+  - [Pug](https://github.com/fasiha/obsidian-japanese-quizzer) started out as a Japanese flashcard skill for Claude Code but now it's my favorite iOS app to grind vocab, grammar, and those pesky transitive–intransitive verb pairs 🐶🦴
   - [Moratta](https://fasiha.github.io/moratta/). Confession—I'm bad at reading hiragana and katakana 🥺. But not any more! Leveling up my basics every day!
   - [Yoyogi](https://fasiha.github.io/yoyogi) is an anti-timeline frontend for Mastodon that centers a single author and their threads. I'd been asking others to make this for years and finally did it 😝
   - [Kamiya Codec](https://github.com/fasiha/kamiya-codec) conjugates and deconjugates Japanese verbs and adjectives following Taeko Kamiya's texts
