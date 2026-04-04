@@ -22,6 +22,7 @@
     - [KanjiBreak](https://kanjibreak.glitch.me): crowdsourced breakdowns for Chinese characters
     - [KanjiVG Explorer](https://fasiha.github.io/kanjivg-explorer/): explore Chinese character dependency graphs
 - 🔍 Not big enough to be projects—more like amuses-bouches:
+    - [Papilou](https://fasiha.github.io/papilou/) each emoji's name in several languages. I added phonetic guides (pinyin, furigana, tashkiil) 👄📣 because I need training wheels
     - [Giant satellite-projected maps](https://observablehq.com/@fasiha/satellite-explorer-with-presets) for your walls, a set of four or seven: print them two meters wide!
     - [Frequency table of leading sounds in syllables](https://github.com/fasiha/sinic-fronts#readme) in Taigi (Taiwanese Hokkien) vs Cantonese vs Mandarin
     - [Hear and see](https://fasiha.github.io/glossika-example-sentence-1/) the same sentence in all sixty-five languages currently supported by [Glossika](https://ai.glossika.com/)
